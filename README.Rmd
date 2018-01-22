@@ -11,7 +11,7 @@ output:
 library(stringr)
 
 date <- "1/25/2018"
-vendor <- "Pizza Capri"
+vendor <- "Good Earth Catering Company"
 title <- "The Wisdom of Polarized Crowds"
 file_title <- "Wisdom Polarized Crowds"
 short_title_n = 3

@@ -40,7 +40,7 @@
 
 <br>
 
-<p class=pfblock-header3>A light lunch will be provided by Pizza Capri.</p>
+<p class=pfblock-header3>A light lunch will be provided by Good Earth Catering Company.</p>
 
 <br><br>
 
